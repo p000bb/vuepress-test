@@ -179,7 +179,24 @@ jobs:
 
 配置好上面所有的东西之后，每当你提交代码到你的github master分支之后，github就会自动帮你自动构建
 
-## 上传至github
+## 上传至github并修改CNAME
+
+![image-20220801181014967](http://img.p000bb.work/image-20220801181014967.png)
+![image-20220801181036725](http://img.p000bb.work/image-20220801181036725.png)
+
+::: tip 说明
+CNAME指向自己的域名
+:::
+
+## 域名配置
+
+![image-20220801181306499](http://img.p000bb.work/image-20220801181306499.png)
+
+## 访问网页
+
+![image-20220801181343985](http://img.p000bb.work/image-20220801181343985.png)
+
+
 
 
 
